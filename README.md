@@ -64,7 +64,7 @@ The analysis focuses on cleaned transactional sales data prepared for reporting 
 
 ---
 
-# 🛠 Tools Used
+# 🛠 Tools & Technology Used
 
 - Microsoft Excel
 - Power Query
