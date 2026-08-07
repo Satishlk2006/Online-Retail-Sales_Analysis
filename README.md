@@ -1,5 +1,20 @@
 # 📊 Online Retail Sales Analysis Dashboard (Microsoft Excel)
 
+## 📑 Quick Navigation
+
+- [Project Overview](#-project-overview)
+- [Business Objective](#-business-objective)
+- [Dataset Description](#-dataset-description)
+- [Tools Used](#-tools-used)
+- [Workbook Structure](#-workbook-structure)
+- [Dashboard Features](#-dashboard-features)
+- [Key Performance Metrics](#-key-performance-metrics)
+- [Key Insights](#-key-insights)
+- [Business Recommendations](#-business-recommendations)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Dashboard Preview](#-dashboard-preview)
+- [Project Outcome](#-project-outcome)
+- [Conclusion](#-conclusion)
 ## 📌 Project Overview
 
 This project is an end-to-end **sales data analysis** performed in **Microsoft Excel** using an Online Retail dataset. The project focuses on transforming raw transactional data into meaningful business insights through data cleaning, aggregation, visualization, and interactive dashboarding.
