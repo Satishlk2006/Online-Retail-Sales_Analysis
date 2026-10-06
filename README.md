@@ -193,19 +193,8 @@ This project demonstrates practical data analytics skills using Microsoft Excel,
 
 # 📷 Dashboard Preview
 
-> *Add a screenshot of your Excel dashboard here.*
+><img width="736" height="458" alt="image" src="https://github.com/user-attachments/assets/95bf9d6e-3cfb-4f3b-b4c2-7d221b797d37" />
 
-Example:
-
-```text
-images/dashboard.png
-```
-
-Markdown example:
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
 
 ---
 
