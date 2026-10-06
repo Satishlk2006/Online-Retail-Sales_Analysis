@@ -194,44 +194,7 @@ This project demonstrates practical data analytics skills using Microsoft Excel,
 # 📷 Dashboard Preview
 
 ><img width="736" height="458" alt="image" src="https://github.com/user-attachments/assets/95bf9d6e-3cfb-4f3b-b4c2-7d221b797d37" />
-
-	Online Retail Sales - Key Insights & Trends									
-	Key Performance Metrics									
-										
-	Total Revenue		Total Invoices 		Avg Invoice		Countries			
-	$10.6M		19,960		$533.17		38			
-										
-	Month	 Sales ($)								
-	2010-12	$0.8M								
-	2011-01	$0.7M								
-	2011-02	$0.5M								
-	2011-03	$0.7M								
-	2011-04	$0.5M								
-	2011-05	$0.8M								
-	2011-06	$0.8M								
-	2011-07	$0.7M								
-	2011-08	$0.8M								
-	2011-09	$1.1M								
-	2011-10	$1.2M								
-	2011-11	$1.5M								
-	2011-12	$0.6M								
-										
-	Market	Sales($)								
-	Domestic	18019								
-	International	1941								
-										
-										
-	Product	 Sales($) 								
-	DOTCOM POSTAGE	 $2,06,248.77 								
-	REGENCY CAKESTAND 3 TIER	 $1,74,156.54 								
-	PAPER CRAFT , LITTLE BIRDIE	 $1,68,469.60 								
-	WHITE HANGING HEART T-LIGHT HOLDER	 $1,06,236.72 								
-	PARTY BUNTING	 $99,445.23 								
-	JUMBO BAG RED RETROSPOT	 $94,159.81 								
-	MEDIUM CERAMIC TOP STORAGE JAR	 $81,700.92 								
-	POSTAGE	 $78,101.88 								
-	Manual	 $77,752.82 								
-	RABBIT NIGHT LIGHT	 $66,870.03 								
+				
 <img width="867" height="752" alt="image" src="https://github.com/user-attachments/assets/9edb3e59-7786-4575-84ba-6d6e56035bef" />
 
 ---
